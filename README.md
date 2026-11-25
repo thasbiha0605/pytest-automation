@@ -42,8 +42,9 @@ Test Results
 - Failed: 0
 - Status: All Tests Passed
 
-  Author
-  Thasbiha
 Project Purpose
 
 To practice Selenium automation testing and understand how to interact with different web elements using Python and Pytest.
+
+##Author
+Thasbiha
